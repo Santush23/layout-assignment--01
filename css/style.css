@@ -1,0 +1,86 @@
+*{
+	margin:0;
+}
+.header {
+	height:100px;
+	width: 1750;
+	background-color: green;
+}
+.header h3{
+	text-align: center;
+	color: white;
+
+}
+.container {
+	height: 1000px;
+	width: 100%;
+
+}
+
+.left {
+	height: 800px;
+	width:25%; 
+	background-color: red;
+
+}
+.left h3{
+ text-align: center;
+ color: white;
+}
+
+.center {
+	height: 800px;
+	width:50%; 
+  margin-top: 20px;
+	float: right;
+	
+
+}
+
+.pre {
+	height:100px;
+	width: 50%;
+	background-color: black;
+}
+.pre h3{
+	text-align: center;
+	color: white;
+
+}
+
+.main {
+	height:600px;
+	width: 50%;
+	background-color: white;
+
+}
+.main h3 {
+	text-align: center;
+	color: black;
+
+}
+
+.post{
+	height:100px;
+	width: 50%;
+	background-color: red;
+}
+.post h3 {
+	text-align: center;
+	color: black;
+
+
+}
+
+.right {
+	height: 800px;
+	width:25%; 
+	background-color: red;
+	float: left;
+
+}
+.right h3{
+	 text-align: center;
+      color:black;
+
+}
